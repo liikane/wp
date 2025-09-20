@@ -16,6 +16,8 @@
 
 **Pull Requests** – Soovitused muudatuste liitmiseks; võimaldavad koodi üle vaadata ja ühendada.
 
+**Pull Request** – Ettepanek muudatuste liitmiseks haruga; võimaldab üle vaadata ja ühendada koodimuudatused.
+
 **Actions** – Automaatika; võimaldab jooksutada töövooge (nt testimine, paigaldamine) automaatselt.
 
 **Projects** – Organiseerimisvahend; aitab ülesandeid ja tööd visuaalselt hallata (nt kanban).
@@ -23,3 +25,9 @@
 **Insights** – Statistika ja analüütika repo kohta (nt aktiivsus, panustajad).
 
 **Settings** – Seaded; võimaldab muuta repo või konto sätteid.
+
+**Commit** – Koodimuudatuse salvestuspunkt; sisaldab muudatuse kirjeldust, autorit ja ajatemplit.
+
+**Repository** – Koodiprojekt GitHubis koos kõigi failide, ajalooga ja tööriistadega.
+
+**Origin** – Vaikimisi kaugserveri nimi, kust repo klooniti ja kuhu muudatusi saadetakse.
